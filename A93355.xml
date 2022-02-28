@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The defence of Humphery Smith, Anthony Melledge, and William Bayley, against several false accusations cast upon them by John Bunkley, for which they yet remain in prison at Winchester</title>
+            <author>Smith, Humphrey, d. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93355</idno>
+            <idno type="STC">Wing S4056</idno>
+            <idno type="STC">ESTC R472416</idno>
+            <idno type="EEBO-CITATION">42475187</idno>
+            <idno type="OCLC">ocm 42475187</idno>
+            <idno type="VID">151345</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151345)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2256:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The defence of Humphery Smith, Anthony Melledge, and William Bayley, against several false accusations cast upon them by John Bunkley, for which they yet remain in prison at Winchester</title>
+                  <author>Smith, Humphrey, d. 1663.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Friends' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Persecution.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="statement">
+            <pb facs="tcp:151345:1" rendition="simple:additions"/>
+            <head>The defence of Humphery Smith, Anthony Melledge, <hi>and</hi> William Bayley, againſt ſeveral falſe accuſations caſt upon
+them by John Bunkley, for which they yet remain in Priſon at Wincheſter.</head>
+            <p>VVHereas <hi>Humphery Smith,</hi> was falſely accuſed of ſaying I curſe, or for curſing, whereby <hi>Iohn Bulkley</hi> hath moſt unreaſonably
+caſt and kept him (and <hi>Anthony Melledge</hi> and <hi>Will. Bayley</hi> in a ſtrait filthy priſon above a year, and whereas <hi>Iohn Bulkley</hi>
+hath alſo therein made lyes, his refuge ſeeking to cover his cruelty and injuſtice, by common continual reports, that <hi>Humphery Smith</hi>
+did curſe a maid at <hi>Poulner,</hi> and alſo that he made her deſtracted. Therefore is this true teſtimony written in ſhort, to clear the truth
+before the eyes of all that can receive it in plainneſs,</p>
+            <closer>
+               <dateline>From <hi>John Redes</hi> houſe at <hi>Poulner,</hi> 
+                  <date>the <hi>28th.</hi> day of the 1 month 59.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="statement">
+            <p>
+               <hi>HUmphrey Smith</hi> a priſoner at <hi>Wincheſter</hi> above a year, by reaſon of a falſe witneſs, he came and had a meeting, as formerly he had
+among us at <hi>Poulner,</hi> neer <hi>Ringwood</hi> in <hi>Hamſhire,</hi> to whom then ſome of us ſpoke of a maid not far off that was diſtempered, and
+after ſome perſwaſions, he and <hi>Anthony Melledge</hi> was free to go with us to viſit her being diſtempered, who ſince is become ſencible and
+ſober, and when we came, we were invited in by <hi>Steephen Jaye</hi> the man of the houſe, who after falſely ſwore againſt <hi>Humphrey Smith,</hi>
+though then he offered us his houſe to meet in, or liberty for any of us to be with the maid.</p>
+            <p>But there being a filthy thing then ruling in her, <hi>Hum: Smith</hi> denied it and her words, but whereas he was falſly accuſed of curſing
+or ſaying I curſe, and that <hi>Rich: Harris</hi> ſhould ſay Amen, was both falſe and never ſpoken by them, we being then eye &amp; ear witneſſes, &amp;
+what was ſpoke was not in ſecret, neither did <hi>Ant: Melledge</hi> ſay Amen, nor any other of us to which our names are written:</p>
+            <closer>
+               <signed>Anne Rede, Frances Bence, Mary Hobs, Elizabeth Everedge.</signed>
+            </closer>
+         </div>
+         <div type="statement">
+            <p>And the maids father <hi>Thomas Hinton</hi> came after to a ſitting of them called Juſtices at <hi>Ringwood,</hi> where was <hi>John Bulkley</hi> &amp; <hi>John Hilſley,</hi>
+before whom he offered to teſtifie upon his oath that <hi>Hum. Smith</hi> never ſpoke them words, but <hi>John Bunkley</hi> would not receive his teſti<g ref="char:EOLhyphen"/>mony,
+the truth whereof is certified under our hands,—</p>
+            <closer>
+               <signed>Richard Harris, Phil. Bence. Ann Rede.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>The teſtimony of Rich. Harris.</head>
+            <p>VVHereas <hi>Humphrey Smith</hi> was accuſed for curſing, I bear my teſtimony with the reſt, that he was falſely accuſed,</p>
+            <closer>
+               <signed>Richard Harris.</signed>
+            </closer>
+         </div>
+         <div type="statement">
+            <p>The maid her ſelf can give no teſtimony of it but underneath are ſome words plainly written, as they came from her own mouth.</p>
+            <p>I was then diſtempered, and did not give ear to the words which were ſpoken, &amp; if I had, I had not been ſencible, and I do not re<g ref="char:EOLhyphen"/>member
+what was ſpoken, for I was not then as I am now, nor as I was before, &amp; I was diſtempered before ever I heard of thy name,
+(meaning <hi>H. S.</hi> &amp; ſhe ſaid) I believe <hi>Bulkley's</hi> ſending for me was to get what he could out of me, and to this, ſhe with her own hand
+writ her name,—<hi>Mary Hinton.</hi>
+            </p>
+            <p>By theſe laſt words of hers it may be underſtood how <hi>John Bunkley</hi> had ſent for her after <hi>H. S.</hi> was falſely accuſed, and that <hi>John
+Bulkley</hi> had commonly reported that he had made her mad, but he never ſaw her face before that time, he went to ſee her ſhe being
+<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſtempered.</p>
+         </div>
+         <div type="testimony">
+            <head>The testimony of the maids Father.</head>
+            <p>WHen <hi>Hump. Smith</hi> was at <hi>Poulner,</hi> I deſired him, and he &amp; others of his friends went to viſit my daughter, and I went along with
+him, &amp; was with him there, &amp; alſo came thence with him, and did not hear any curſe pronounced, nor hear him ſay I curſe, the
+which he being accuſed of; I went to a ſitting of Juſtices at <hi>Ringwood,</hi> to teſtifie upon oath, but <hi>John Bulkley</hi> would not receive it, and
+after this <hi>Ste. Jaye</hi> had accuſed <hi>H. S.</hi> of curſing, he drew his knife to kill himſelf, but he could not do it, but ſwore he would run his knife
+<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n my daughter, and did beat her, that ſhe ſpit much blood, and lay very ſick after, ſo that he went away into another County.</p>
+            <closer>
+               <signed>Tho. Hinton.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>The teſtimony of Anthony Melledge</head>
+            <p>I being with <hi>H. S.</hi> to viſit the diſtracted maid at <hi>Poulner,</hi> after which time he was accuſed for curſing that maid, and that I ſhould
+ſay Amen. The which I teſtifie is falſe, neither was <hi>William Bayley</hi> there</p>
+            <closer>
+               <signed>Anthony Melledge.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>The teſtimony of Will. Bayley.</head>
+            <p>AT that time <hi>H. S.</hi> went to viſit the diſtracted mayd I was not there, but ſick at home 10. miles off: though <hi>John Bulkley</hi> hath
+kept me a priſoner above a year (from 3 ſmall motherleſs children and way of livelyhood) as for ſeveral miſdemeanors (done at
+that time &amp; place) as was mentioned in the <hi>Mittimus.</hi>
+            </p>
+         </div>
+         <div type="statement">
+            <p>THe Lord God of Heaven and Earth knoweth I am wronged by <hi>John Bulkley</hi> every way, when I neither did nor ſpoke nor inten<g ref="char:EOLhyphen"/>ded
+any evil towards any creature, I was by his warrant brought before him, and then not ſuffered to ſpeak for my defence in
+truth, but falſely accuſed of curſing, as the Lord God knoweth, and preſently committed to priſon, and alſo 2 of my dear brethren
+with me, who have ſince ſuffered a moſt cruel &amp; cloſe inhumane impriſonment, above a year, and my ſoul grieved to hear and ſee con<g ref="char:EOLhyphen"/>tinual
+wickedneſs, beſides all the ſufferings in my body, and grief to ſee my dear brethren lye ſick upon the ground by me ſometimes
+wanting water or any thing to nouriſh their bodies, by reaſon of cloſe reſtraint and cruelty, and to add affliction to all this, and much
+more, he alſo ſought by all likelyhood to take away the life of my body to cover his own injuſtice, and therefore ſent into my native
+county to Colonel <hi>Burch,</hi> and indeavoured very much to have more falfe witneſs againſt me; and therefore as himſelf confeſſed to me
+he cauſed a man there to be bound over to a Seſſions as to teſtifie againſt me, whereby he had thoughts to have got teſtimony upon
+oath, that I had cheated ſome man of much money, and ſo been as a thief, and ſo to take away my life, which was a horrible wicked
+thing, but in that the Lord prevented him, though he commonly reported the thing to be true, to make truth and me odious, and
+himſelf to be as a juſt man, in puniſhing ſuch a one: and he alſo commonly reported not onely that I curſed the maid, but alſo that I
+made her mad, but that it is all falſe, I am ready to teſtifie unto death, and for the clearing of the living truth of Jeſus Chriſt, from
+them and all other falſe reports which are many by him, my life is not dear unto me nor my long impriſonment, though tedious, but do
+believe if it be many years more, the Lord God of power who knoweth my innocency will keep me in faithfulneſs with the reſt, until
+his wickedneſs &amp; envy doth appear unto all ſober people, and the truth of God ſtand clear from all his falſe accuſations, &amp; deceitful ma<g ref="char:EOLhyphen"/>litious
+enterpriſes, againſt the way of God &amp; me his ſervant; for this I do know, the Lord God is on my ſide, in whom alone is my truſt,
+for whoſe nameſake I ſuffer bonds, patiently, knowing all theſe things to be falſe, this with boldneſs I publiſh, and ſhould willingly ap<g ref="char:EOLhyphen"/>pear
+before the chief Rulers of the nation to clear the truth of God from thoſe falſe things under which <hi>John Bulkley</hi> doth cauſe it and
+me to ſuffer, who am called,</p>
+            <closer>
+               <signed>Humphery Smith.</signed>
+               <dateline>Wincheſter cloſe Priſon <date>the
+5th. of the 2d. month
+1659.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
